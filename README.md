@@ -1,3 +1,3 @@
-# annaouija.github.io
+# AnnaOuija Website
 
-Website for the artist annaouija
+Implemented by @jbitton
