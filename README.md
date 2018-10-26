@@ -1,3 +1,3 @@
-# AnnaOuija Website
+# annaouija.github.io
 
-Implemented by @jbitton
+In loving memory of Anna Konnold.
